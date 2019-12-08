@@ -1,8 +1,10 @@
-[![Build Status](https://travis-ci.org/tiangolo/node-frontend.svg?branch=master)](https://travis-ci.org/tiangolo/node-frontend)
+[![Build Status](https://travis-ci.com/omrumbakitemiz/node-frontend.svg?branch=master)](https://travis-ci.com/omrumbakitemiz/node-frontend)
+
+### This file refers to https://github.com/tiangolo/node-frontend
 
 ## Supported tags and respective `Dockerfile` links
 
-* [`10`, `latest` _(Dockerfile)_](https://github.com/tiangolo/node-frontend/blob/master/Dockerfile)
+* [`13`, `latest` _(Dockerfile)_](https://github.com/tiangolo/node-frontend/blob/master/Dockerfile)
 
 # Node.js frontend development with Chrome Headless tests
 
